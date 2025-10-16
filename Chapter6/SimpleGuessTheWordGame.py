@@ -4,7 +4,7 @@ import random
 
 possible_words = ["Spoon", "Apple", "Orange", "Strawberry", "Chair", "Table", "Pineapple", "Keyboard", "Mouse", "House", "Fork", "Knife", "Banana", "Cherry"]
 
-guess_word = possible_words[random.randint(0, len(possible_words - 1))]
+guess_word = possible_words[random.randint(0, len(possible_words) - 1)]
 guess_word_list = list(guess_word.lower())
 guessed_letters = []
 guesses_amount = 6
