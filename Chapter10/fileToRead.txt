@@ -1,0 +1,3 @@
+Hello I'm writing into a text file
+It's a pleasure to finally write somewhere else
+I mean outside the IDE
